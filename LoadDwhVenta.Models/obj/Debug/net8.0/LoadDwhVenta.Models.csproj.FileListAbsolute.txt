@@ -1,0 +1,13 @@
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.Models\bin\Debug\net8.0\LoadDwhVenta.Models.deps.json
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.Models\bin\Debug\net8.0\LoadDwhVenta.Models.dll
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.Models\bin\Debug\net8.0\LoadDwhVenta.Models.pdb
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.Models\obj\Debug\net8.0\LoadDwhVenta.Models.csproj.AssemblyReference.cache
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.Models\obj\Debug\net8.0\LoadDwhVenta.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.Models\obj\Debug\net8.0\LoadDwhVenta.Models.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.Models\obj\Debug\net8.0\LoadDwhVenta.Models.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.Models\obj\Debug\net8.0\LoadDwhVenta.Models.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.Models\obj\Debug\net8.0\LoadDwhVenta.Models.sourcelink.json
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.Models\obj\Debug\net8.0\LoadDwhVenta.Models.dll
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.Models\obj\Debug\net8.0\refint\LoadDwhVenta.Models.dll
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.Models\obj\Debug\net8.0\LoadDwhVenta.Models.pdb
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.Models\obj\Debug\net8.0\ref\LoadDwhVenta.Models.dll

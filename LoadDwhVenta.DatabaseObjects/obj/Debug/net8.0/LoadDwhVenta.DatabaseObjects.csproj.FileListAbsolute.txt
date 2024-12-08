@@ -1,0 +1,13 @@
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.DatabaseObjects\obj\Debug\net8.0\LoadDwhVenta.DatabaseObjects.csproj.AssemblyReference.cache
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.DatabaseObjects\obj\Debug\net8.0\LoadDwhVenta.DatabaseObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.DatabaseObjects\obj\Debug\net8.0\LoadDwhVenta.DatabaseObjects.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.DatabaseObjects\obj\Debug\net8.0\LoadDwhVenta.DatabaseObjects.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.DatabaseObjects\obj\Debug\net8.0\LoadDwhVenta.DatabaseObjects.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.DatabaseObjects\bin\Debug\net8.0\LoadDwhVenta.DatabaseObjects.deps.json
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.DatabaseObjects\bin\Debug\net8.0\LoadDwhVenta.DatabaseObjects.dll
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.DatabaseObjects\bin\Debug\net8.0\LoadDwhVenta.DatabaseObjects.pdb
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.DatabaseObjects\obj\Debug\net8.0\LoadDwhVenta.DatabaseObjects.dll
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.DatabaseObjects\obj\Debug\net8.0\refint\LoadDwhVenta.DatabaseObjects.dll
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.DatabaseObjects\obj\Debug\net8.0\LoadDwhVenta.DatabaseObjects.pdb
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.DatabaseObjects\obj\Debug\net8.0\ref\LoadDwhVenta.DatabaseObjects.dll
+C:\Users\Anthony\source\repos\LoadDwhVenta\LoadDwhVenta.DatabaseObjects\obj\Debug\net8.0\LoadDwhVenta.DatabaseObjects.sourcelink.json

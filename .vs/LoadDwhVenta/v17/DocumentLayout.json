@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1361C6E-D04B-40B7-9718-006C1A524CC1}|LoadDwhVenta.Data\\LoadDwhVenta.Data.csproj|c:\\users\\juant\\downloads\\loaddwhventas-main\\loaddwhventa.data\\core\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1361C6E-D04B-40B7-9718-006C1A524CC1}|LoadDwhVenta.Data\\LoadDwhVenta.Data.csproj|solutionrelative:loaddwhventa.data\\core\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0CFF53-9581-4160-8338-E166E211812E}|LoadDwhVenta.WorkerService\\LoadDwhVenta.WorkerService.csproj|c:\\users\\juant\\downloads\\loaddwhventas-main\\loaddwhventa.workerservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B0CFF53-9581-4160-8338-E166E211812E}|LoadDwhVenta.WorkerService\\LoadDwhVenta.WorkerService.csproj|solutionrelative:loaddwhventa.workerservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0CFF53-9581-4160-8338-E166E211812E}|LoadDwhVenta.WorkerService\\LoadDwhVenta.WorkerService.csproj|c:\\users\\juant\\downloads\\loaddwhventas-main\\loaddwhventa.workerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B0CFF53-9581-4160-8338-E166E211812E}|LoadDwhVenta.WorkerService\\LoadDwhVenta.WorkerService.csproj|solutionrelative:loaddwhventa.workerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CA9CBD-57A4-4E53-AEC7-E64E3A775B5F}|LoadDwhVenta.Models\\LoadDwhVenta.Models.csproj|c:\\users\\juant\\downloads\\loaddwhventas-main\\loaddwhventa.models\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CA9CBD-57A4-4E53-AEC7-E64E3A775B5F}|LoadDwhVenta.Models\\LoadDwhVenta.Models.csproj|solutionrelative:loaddwhventa.models\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1361C6E-D04B-40B7-9718-006C1A524CC1}|LoadDwhVenta.Data\\LoadDwhVenta.Data.csproj|c:\\users\\juant\\downloads\\loaddwhventas-main\\loaddwhventa.data\\contexts\\dwventas\\dwhventascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1361C6E-D04B-40B7-9718-006C1A524CC1}|LoadDwhVenta.Data\\LoadDwhVenta.Data.csproj|solutionrelative:loaddwhventa.data\\contexts\\dwventas\\dwhventascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CA9CBD-57A4-4E53-AEC7-E64E3A775B5F}|LoadDwhVenta.Models\\LoadDwhVenta.Models.csproj|c:\\users\\juant\\downloads\\loaddwhventas-main\\loaddwhventa.models\\models\\vwventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CA9CBD-57A4-4E53-AEC7-E64E3A775B5F}|LoadDwhVenta.Models\\LoadDwhVenta.Models.csproj|solutionrelative:loaddwhventa.models\\models\\vwventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1361C6E-D04B-40B7-9718-006C1A524CC1}|LoadDwhVenta.Data\\LoadDwhVenta.Data.csproj|c:\\users\\juant\\downloads\\loaddwhventas-main\\loaddwhventa.data\\interface\\idataservicedwventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1361C6E-D04B-40B7-9718-006C1A524CC1}|LoadDwhVenta.Data\\LoadDwhVenta.Data.csproj|solutionrelative:loaddwhventa.data\\interface\\idataservicedwventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DwhVentasContext.cs",
+              "DocumentMoniker": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\LoadDwhVenta.Data\\Contexts\\DwVentas\\DwhVentasContext.cs",
+              "RelativeDocumentMoniker": "LoadDwhVenta.Data\\Contexts\\DwVentas\\DwhVentasContext.cs",
+              "ToolTip": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\LoadDwhVenta.Data\\Contexts\\DwVentas\\DwhVentasContext.cs",
+              "RelativeToolTip": "LoadDwhVenta.Data\\Contexts\\DwVentas\\DwhVentasContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:56:50.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VwVenta.cs",
+              "DocumentMoniker": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\LoadDwhVenta.Models\\Models\\VwVenta.cs",
+              "RelativeDocumentMoniker": "LoadDwhVenta.Models\\Models\\VwVenta.cs",
+              "ToolTip": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\LoadDwhVenta.Models\\Models\\VwVenta.cs",
+              "RelativeToolTip": "LoadDwhVenta.Models\\Models\\VwVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:52:14.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\LoadDwhVenta.Models\\Models\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "LoadDwhVenta.Models\\Models\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\LoadDwhVenta.Models\\Models\\NorthwindContext.cs",
+              "RelativeToolTip": "LoadDwhVenta.Models\\Models\\NorthwindContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:51:17.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDataServiceDwVentas.cs",
+              "DocumentMoniker": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\LoadDwhVenta.Data\\Interface\\IDataServiceDwVentas.cs",
+              "RelativeDocumentMoniker": "LoadDwhVenta.Data\\Interface\\IDataServiceDwVentas.cs",
+              "ToolTip": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\LoadDwhVenta.Data\\Interface\\IDataServiceDwVentas.cs",
+              "RelativeToolTip": "LoadDwhVenta.Data\\Interface\\IDataServiceDwVentas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T21:38:54.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\LoadDwhVenta.WorkerService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LoadDwhVenta.WorkerService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\LoadDwhVenta.WorkerService\\appsettings.Development.json",
+              "RelativeToolTip": "LoadDwhVenta.WorkerService\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T03:22:06.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\LoadDwhVenta.Data\\Core\\OperationResult.cs",
+              "RelativeDocumentMoniker": "LoadDwhVenta.Data\\Core\\OperationResult.cs",
+              "ToolTip": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\LoadDwhVenta.Data\\Core\\OperationResult.cs",
+              "RelativeToolTip": "LoadDwhVenta.Data\\Core\\OperationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T03:16:13.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\LoadDwhVenta.WorkerService\\appsettings.json",
+              "RelativeDocumentMoniker": "LoadDwhVenta.WorkerService\\appsettings.json",
+              "ToolTip": "C:\\Users\\juant\\Downloads\\LoadDwhVentas-main\\LoadDwhVenta.WorkerService\\appsettings.json",
+              "RelativeToolTip": "LoadDwhVenta.WorkerService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T00:45:07.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
